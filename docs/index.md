@@ -6,7 +6,7 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 ## Chapitre 1: Système d'information Comptable
 
 
-Introduction
+Introduction : 
 Initiation à un système d'information comptable : Le quipu ( Incas 14ème et 15ème siècles)
 
 Et avec un retour à la ligne avec saut de ligne.
