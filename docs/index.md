@@ -8,7 +8,7 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 
 Introduction : 
 Initiation à un système d'information comptable : Le quipu ( Incas 14ème et 15ème siècles)
-
+![photo quipu](https://c8.alamy.com/compfr/ay2m5e/quipu-ay2m5e.jpg)
 Et avec un retour à la ligne avec saut de ligne.
 
 ## Un lien :
