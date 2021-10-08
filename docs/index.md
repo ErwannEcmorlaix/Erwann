@@ -7,7 +7,7 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 
 
 Introduction
-Initiation à un système d'information comptable :Le quipu ( Incas 14ème et 15ème siècles)
+Initiation à un système d'information comptable : Le quipu ( Incas 14ème et 15ème siècles)
 
 Et avec un retour à la ligne avec saut de ligne.
 
